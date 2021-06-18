@@ -1,4 +1,4 @@
-# profitsplitter_wk20
+# profitsplitter_HR
 
 This repo contains three different solidity smart contracts to help build automated company profit splitting and equity plans.  There are three solidity files that can be used for different purposes by an HR/finance team.
 
